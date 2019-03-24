@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aiviezetot.html5blank.com/sitemap.xml
